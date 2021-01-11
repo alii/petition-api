@@ -1,5 +1,7 @@
 import fetch from "node-fetch";
+
 import { AllPetitionsRequest, DetailedPetition, Petition, SinglePetitionRequest } from "./interfaces";
+export * from "./interfaces";
 
 export class PetitionsAPI {
   base_api = "https://petition.parliament.uk/petitions";
