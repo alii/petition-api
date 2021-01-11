@@ -1,2 +1,2 @@
-# ts-npm-template
+# petition-api
 Quickstart a node module with TypeScript
