@@ -1,4 +1,7 @@
-# petition-api
+# `petition-api`
+
+![Forks](https://img.shields.io/github/forks/alii/petition-api)
+![Stars](https://img.shields.io/github/stars/alii/petition-api)
 
 ### A simple API for accessing the UK's petitions service.
 
